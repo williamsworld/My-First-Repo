@@ -1,2 +1,3 @@
 # My-First-Repo
-My First Repository
+This is my first repository
+I am using Visual Studio Code to edit files locally and leveargin Git/GitHub to publish changes
